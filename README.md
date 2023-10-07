@@ -2,4 +2,4 @@
 
 This repository is deployed to https://t-paul.github.io/logic-analyzer-case/.
 
-![Foto of the board in the 3d printed case](images/1.jpg)
+![Foto of the board in the 3d printed case](media/01.jpg)
